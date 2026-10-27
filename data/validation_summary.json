@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "investor_primary_key_unique": true,
+    "portfolio_primary_key_unique": true,
+    "instrument_primary_key_unique": true,
+    "holding_primary_key_unique": true,
+    "price_primary_key_unique": true,
+    "portfolio_investor_fk_valid": true,
+    "holding_portfolio_fk_valid": true,
+    "holding_instrument_fk_valid": true,
+    "price_instrument_fk_valid": true,
+    "target_portfolio_fk_valid": true,
+    "positive_prices": true,
+    "positive_holding_quantities": true,
+    "all_checks_pass": true
+  },
+  "row_counts": {
+    "investors": 20,
+    "portfolios": 20,
+    "instruments": 100,
+    "holdings": 100,
+    "market_prices": 5780,
+    "target_allocations": 100
+  },
+  "valid": true
+}

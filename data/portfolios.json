@@ -1,0 +1,162 @@
+[
+  {
+    "portfolio_id":"PORT-INV-000001-01",
+    "investor_id":"INV-000001",
+    "portfolio_name":"Portfolio 0001",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000002-01",
+    "investor_id":"INV-000002",
+    "portfolio_name":"Portfolio 0002",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000003-01",
+    "investor_id":"INV-000003",
+    "portfolio_name":"Portfolio 0003",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000004-01",
+    "investor_id":"INV-000004",
+    "portfolio_name":"Portfolio 0004",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000005-01",
+    "investor_id":"INV-000005",
+    "portfolio_name":"Portfolio 0005",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000006-01",
+    "investor_id":"INV-000006",
+    "portfolio_name":"Portfolio 0006",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000007-01",
+    "investor_id":"INV-000007",
+    "portfolio_name":"Portfolio 0007",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000008-01",
+    "investor_id":"INV-000008",
+    "portfolio_name":"Portfolio 0008",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000009-01",
+    "investor_id":"INV-000009",
+    "portfolio_name":"Portfolio 0009",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000010-01",
+    "investor_id":"INV-000010",
+    "portfolio_name":"Portfolio 0010",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000011-01",
+    "investor_id":"INV-000011",
+    "portfolio_name":"Portfolio 0011",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000012-01",
+    "investor_id":"INV-000012",
+    "portfolio_name":"Portfolio 0012",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000013-01",
+    "investor_id":"INV-000013",
+    "portfolio_name":"Portfolio 0013",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000014-01",
+    "investor_id":"INV-000014",
+    "portfolio_name":"Portfolio 0014",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000015-01",
+    "investor_id":"INV-000015",
+    "portfolio_name":"Portfolio 0015",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000016-01",
+    "investor_id":"INV-000016",
+    "portfolio_name":"Portfolio 0016",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000017-01",
+    "investor_id":"INV-000017",
+    "portfolio_name":"Portfolio 0017",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000018-01",
+    "investor_id":"INV-000018",
+    "portfolio_name":"Portfolio 0018",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000019-01",
+    "investor_id":"INV-000019",
+    "portfolio_name":"Portfolio 0019",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  },
+  {
+    "portfolio_id":"PORT-INV-000020-01",
+    "investor_id":"INV-000020",
+    "portfolio_name":"Portfolio 0020",
+    "currency":"USD",
+    "status":"ACTIVE",
+    "created_date":"2025-01-01"
+  }
+]

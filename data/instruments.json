@@ -1,0 +1,1002 @@
+[
+  {
+    "instrument_id":"INS-000001",
+    "symbol":"SYN0001",
+    "instrument_name":"Synthetic Equity Instrument 0001",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000002",
+    "symbol":"SYN0002",
+    "instrument_name":"Synthetic Bond Instrument 0002",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000003",
+    "symbol":"SYN0003",
+    "instrument_name":"Synthetic Gold Instrument 0003",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000004",
+    "symbol":"SYN0004",
+    "instrument_name":"Synthetic Cash Instrument 0004",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000005",
+    "symbol":"SYN0005",
+    "instrument_name":"Synthetic RealEstate Instrument 0005",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000006",
+    "symbol":"SYN0006",
+    "instrument_name":"Synthetic Equity Instrument 0006",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000007",
+    "symbol":"SYN0007",
+    "instrument_name":"Synthetic Bond Instrument 0007",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000008",
+    "symbol":"SYN0008",
+    "instrument_name":"Synthetic Gold Instrument 0008",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000009",
+    "symbol":"SYN0009",
+    "instrument_name":"Synthetic Cash Instrument 0009",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000010",
+    "symbol":"SYN0010",
+    "instrument_name":"Synthetic RealEstate Instrument 0010",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000011",
+    "symbol":"SYN0011",
+    "instrument_name":"Synthetic Equity Instrument 0011",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000012",
+    "symbol":"SYN0012",
+    "instrument_name":"Synthetic Bond Instrument 0012",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000013",
+    "symbol":"SYN0013",
+    "instrument_name":"Synthetic Gold Instrument 0013",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000014",
+    "symbol":"SYN0014",
+    "instrument_name":"Synthetic Cash Instrument 0014",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000015",
+    "symbol":"SYN0015",
+    "instrument_name":"Synthetic RealEstate Instrument 0015",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000016",
+    "symbol":"SYN0016",
+    "instrument_name":"Synthetic Equity Instrument 0016",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000017",
+    "symbol":"SYN0017",
+    "instrument_name":"Synthetic Bond Instrument 0017",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000018",
+    "symbol":"SYN0018",
+    "instrument_name":"Synthetic Gold Instrument 0018",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000019",
+    "symbol":"SYN0019",
+    "instrument_name":"Synthetic Cash Instrument 0019",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000020",
+    "symbol":"SYN0020",
+    "instrument_name":"Synthetic RealEstate Instrument 0020",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000021",
+    "symbol":"SYN0021",
+    "instrument_name":"Synthetic Equity Instrument 0021",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000022",
+    "symbol":"SYN0022",
+    "instrument_name":"Synthetic Bond Instrument 0022",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000023",
+    "symbol":"SYN0023",
+    "instrument_name":"Synthetic Gold Instrument 0023",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":true,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000024",
+    "symbol":"SYN0024",
+    "instrument_name":"Synthetic Cash Instrument 0024",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000025",
+    "symbol":"SYN0025",
+    "instrument_name":"Synthetic RealEstate Instrument 0025",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000026",
+    "symbol":"SYN0026",
+    "instrument_name":"Synthetic Equity Instrument 0026",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000027",
+    "symbol":"SYN0027",
+    "instrument_name":"Synthetic Bond Instrument 0027",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000028",
+    "symbol":"SYN0028",
+    "instrument_name":"Synthetic Gold Instrument 0028",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000029",
+    "symbol":"SYN0029",
+    "instrument_name":"Synthetic Cash Instrument 0029",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000030",
+    "symbol":"SYN0030",
+    "instrument_name":"Synthetic RealEstate Instrument 0030",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000031",
+    "symbol":"SYN0031",
+    "instrument_name":"Synthetic Equity Instrument 0031",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000032",
+    "symbol":"SYN0032",
+    "instrument_name":"Synthetic Bond Instrument 0032",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000033",
+    "symbol":"SYN0033",
+    "instrument_name":"Synthetic Gold Instrument 0033",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000034",
+    "symbol":"SYN0034",
+    "instrument_name":"Synthetic Cash Instrument 0034",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000035",
+    "symbol":"SYN0035",
+    "instrument_name":"Synthetic RealEstate Instrument 0035",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000036",
+    "symbol":"SYN0036",
+    "instrument_name":"Synthetic Equity Instrument 0036",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000037",
+    "symbol":"SYN0037",
+    "instrument_name":"Synthetic Bond Instrument 0037",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000038",
+    "symbol":"SYN0038",
+    "instrument_name":"Synthetic Gold Instrument 0038",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000039",
+    "symbol":"SYN0039",
+    "instrument_name":"Synthetic Cash Instrument 0039",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000040",
+    "symbol":"SYN0040",
+    "instrument_name":"Synthetic RealEstate Instrument 0040",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000041",
+    "symbol":"SYN0041",
+    "instrument_name":"Synthetic Equity Instrument 0041",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000042",
+    "symbol":"SYN0042",
+    "instrument_name":"Synthetic Bond Instrument 0042",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000043",
+    "symbol":"SYN0043",
+    "instrument_name":"Synthetic Gold Instrument 0043",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000044",
+    "symbol":"SYN0044",
+    "instrument_name":"Synthetic Cash Instrument 0044",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000045",
+    "symbol":"SYN0045",
+    "instrument_name":"Synthetic RealEstate Instrument 0045",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000046",
+    "symbol":"SYN0046",
+    "instrument_name":"Synthetic Equity Instrument 0046",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":true,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000047",
+    "symbol":"SYN0047",
+    "instrument_name":"Synthetic Bond Instrument 0047",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000048",
+    "symbol":"SYN0048",
+    "instrument_name":"Synthetic Gold Instrument 0048",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000049",
+    "symbol":"SYN0049",
+    "instrument_name":"Synthetic Cash Instrument 0049",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000050",
+    "symbol":"SYN0050",
+    "instrument_name":"Synthetic RealEstate Instrument 0050",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000051",
+    "symbol":"SYN0051",
+    "instrument_name":"Synthetic Equity Instrument 0051",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000052",
+    "symbol":"SYN0052",
+    "instrument_name":"Synthetic Bond Instrument 0052",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000053",
+    "symbol":"SYN0053",
+    "instrument_name":"Synthetic Gold Instrument 0053",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000054",
+    "symbol":"SYN0054",
+    "instrument_name":"Synthetic Cash Instrument 0054",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000055",
+    "symbol":"SYN0055",
+    "instrument_name":"Synthetic RealEstate Instrument 0055",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000056",
+    "symbol":"SYN0056",
+    "instrument_name":"Synthetic Equity Instrument 0056",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000057",
+    "symbol":"SYN0057",
+    "instrument_name":"Synthetic Bond Instrument 0057",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000058",
+    "symbol":"SYN0058",
+    "instrument_name":"Synthetic Gold Instrument 0058",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000059",
+    "symbol":"SYN0059",
+    "instrument_name":"Synthetic Cash Instrument 0059",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000060",
+    "symbol":"SYN0060",
+    "instrument_name":"Synthetic RealEstate Instrument 0060",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000061",
+    "symbol":"SYN0061",
+    "instrument_name":"Synthetic Equity Instrument 0061",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000062",
+    "symbol":"SYN0062",
+    "instrument_name":"Synthetic Bond Instrument 0062",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000063",
+    "symbol":"SYN0063",
+    "instrument_name":"Synthetic Gold Instrument 0063",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000064",
+    "symbol":"SYN0064",
+    "instrument_name":"Synthetic Cash Instrument 0064",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000065",
+    "symbol":"SYN0065",
+    "instrument_name":"Synthetic RealEstate Instrument 0065",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000066",
+    "symbol":"SYN0066",
+    "instrument_name":"Synthetic Equity Instrument 0066",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000067",
+    "symbol":"SYN0067",
+    "instrument_name":"Synthetic Bond Instrument 0067",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000068",
+    "symbol":"SYN0068",
+    "instrument_name":"Synthetic Gold Instrument 0068",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000069",
+    "symbol":"SYN0069",
+    "instrument_name":"Synthetic Cash Instrument 0069",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":true,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000070",
+    "symbol":"SYN0070",
+    "instrument_name":"Synthetic RealEstate Instrument 0070",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000071",
+    "symbol":"SYN0071",
+    "instrument_name":"Synthetic Equity Instrument 0071",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000072",
+    "symbol":"SYN0072",
+    "instrument_name":"Synthetic Bond Instrument 0072",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000073",
+    "symbol":"SYN0073",
+    "instrument_name":"Synthetic Gold Instrument 0073",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000074",
+    "symbol":"SYN0074",
+    "instrument_name":"Synthetic Cash Instrument 0074",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000075",
+    "symbol":"SYN0075",
+    "instrument_name":"Synthetic RealEstate Instrument 0075",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000076",
+    "symbol":"SYN0076",
+    "instrument_name":"Synthetic Equity Instrument 0076",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000077",
+    "symbol":"SYN0077",
+    "instrument_name":"Synthetic Bond Instrument 0077",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000078",
+    "symbol":"SYN0078",
+    "instrument_name":"Synthetic Gold Instrument 0078",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000079",
+    "symbol":"SYN0079",
+    "instrument_name":"Synthetic Cash Instrument 0079",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000080",
+    "symbol":"SYN0080",
+    "instrument_name":"Synthetic RealEstate Instrument 0080",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000081",
+    "symbol":"SYN0081",
+    "instrument_name":"Synthetic Equity Instrument 0081",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000082",
+    "symbol":"SYN0082",
+    "instrument_name":"Synthetic Bond Instrument 0082",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000083",
+    "symbol":"SYN0083",
+    "instrument_name":"Synthetic Gold Instrument 0083",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000084",
+    "symbol":"SYN0084",
+    "instrument_name":"Synthetic Cash Instrument 0084",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000085",
+    "symbol":"SYN0085",
+    "instrument_name":"Synthetic RealEstate Instrument 0085",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000086",
+    "symbol":"SYN0086",
+    "instrument_name":"Synthetic Equity Instrument 0086",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000087",
+    "symbol":"SYN0087",
+    "instrument_name":"Synthetic Bond Instrument 0087",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000088",
+    "symbol":"SYN0088",
+    "instrument_name":"Synthetic Gold Instrument 0088",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000089",
+    "symbol":"SYN0089",
+    "instrument_name":"Synthetic Cash Instrument 0089",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000090",
+    "symbol":"SYN0090",
+    "instrument_name":"Synthetic RealEstate Instrument 0090",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000091",
+    "symbol":"SYN0091",
+    "instrument_name":"Synthetic Equity Instrument 0091",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000092",
+    "symbol":"SYN0092",
+    "instrument_name":"Synthetic Bond Instrument 0092",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":true,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000093",
+    "symbol":"SYN0093",
+    "instrument_name":"Synthetic Gold Instrument 0093",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000094",
+    "symbol":"SYN0094",
+    "instrument_name":"Synthetic Cash Instrument 0094",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000095",
+    "symbol":"SYN0095",
+    "instrument_name":"Synthetic RealEstate Instrument 0095",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000096",
+    "symbol":"SYN0096",
+    "instrument_name":"Synthetic Equity Instrument 0096",
+    "asset_class":"Equity",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000097",
+    "symbol":"SYN0097",
+    "instrument_name":"Synthetic Bond Instrument 0097",
+    "asset_class":"Bond",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000098",
+    "symbol":"SYN0098",
+    "instrument_name":"Synthetic Gold Instrument 0098",
+    "asset_class":"Gold",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"LOW",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000099",
+    "symbol":"SYN0099",
+    "instrument_name":"Synthetic Cash Instrument 0099",
+    "asset_class":"Cash",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  },
+  {
+    "instrument_id":"INS-000100",
+    "symbol":"SYN0100",
+    "instrument_name":"Synthetic RealEstate Instrument 0100",
+    "asset_class":"RealEstate",
+    "currency":"USD",
+    "is_excluded":false,
+    "liquidity_tier":"HIGH",
+    "active":true
+  }
+]

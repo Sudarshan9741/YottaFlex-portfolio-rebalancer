@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+*.db
+data/full/
+data/full-check/
+data/check-*/
+data/determinism-*/
+.DS_Store

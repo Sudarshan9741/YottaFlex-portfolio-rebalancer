@@ -1,0 +1,16 @@
+[
+  {
+    "fee_schedule_id":"FEE-LOW",
+    "tier":"LOW",
+    "rate_bps":8.0,
+    "minimum_fee":1.0,
+    "effective_from":"2025-01-01"
+  },
+  {
+    "fee_schedule_id":"FEE-HIGH",
+    "tier":"HIGH",
+    "rate_bps":3.0,
+    "minimum_fee":0.5,
+    "effective_from":"2025-01-01"
+  }
+]
